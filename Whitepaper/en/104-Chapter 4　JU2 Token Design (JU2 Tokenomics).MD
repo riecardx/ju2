@@ -8,21 +8,13 @@
 
 
 | **Item** | **Description** |
-
 |----|----|
-
 | Token Name | JU2 Token |
-
 | Token Symbol | JU2 |
-
 | Total Supply | 1 billion (1,000,000,000 JU2) |
-
 | Decimals | 18 |
-
 | Token Standard | ERC-20 (compatible with BNB Chain, Arbitrum, Ethereum, Polygon, and other EVM chains) |
-
 | Initial Issuance Method | Smart contract generation + phased release |
-
 | Contract Security | Released after audits by third-party security institutions (such as CertiK / PeckShield) |
 
 
@@ -44,17 +36,11 @@ The allocation structure is as follows:
 
 
 | **Allocation Category** | **Percentage** | **Amount (JU2)** | **Description** |
-
 |----|----|----|----|
-
 | Team | 15% | 150,000,000 | Incentives for core development and long-term construction; part permanently locked for co-governance voting |
-
 | Investors | 30% | 300,000,000 | Private and strategic fundraising rounds with long-term vesting |
-
 | DAO Treasury | 20% | 200,000,000 | Community governance, ecosystem fund, strategic partnerships, public goods |
-
 | Community Incentives | 30% | 300,000,000 | Airdrops, mining, user rewards, community activities |
-
 | Market & Liquidity | 5% | 50,000,000 | Market making, listing liquidity, and promotional activities |
 
 

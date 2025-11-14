@@ -450,13 +450,12 @@ The JU2 whitepaper is not merely a technical document—it is an open invitation
 We stand at the frontier of decentralized finance, and the next chapter will be written together.
 
 
-### **A.5 联系方式（Contact Information）**
-
-
-
 Welcome to JU2.  
 
 **Let decentralization belong to everyone.**
+
+
+### **A.5 联系方式（Contact Information）**
 
 
 **Telegram：** @riecardx  

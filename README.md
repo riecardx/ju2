@@ -454,16 +454,13 @@ We stand at the frontier of decentralized finance, and the next chapter will be 
 
 
 
+Welcome to JU2.  
+
+**Let decentralization belong to everyone.**
+
+
 **Telegram：** @riecardx  
 
 **Email：** riecardx@gmail.com  
 
 **GitHub：** <https://github.com/riecardx/ju2>
-
-
-
-
-
-Welcome to JU2.  
-
-**Let decentralization belong to everyone.**

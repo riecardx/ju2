@@ -1,6 +1,4 @@
 
-
-
 [《JU2 Decentralized Exchange Project Whitepaper》](#)
 
 
@@ -153,51 +151,63 @@
 
 
 
-[Chapter 6Project Roadmap](#)
+[Chapter 6 Project Roadmap](#)
 
 
 
-[6.1 Phase One: System Architecture & Smart Contract Development (0–6 Months)](#)
+[6.1 Phase One: System Architecture Design & Smart Contract Development (Month 0–6｜Aligned with Pre-Seed)](#)
 
 
 
-[6.2 Phase Two: Testnet Deployment & Security Audit (4–9 Months)](#)
+[6.2 Phase Two: Testnet Deployment, Security Audit & A/B Public Testing (Month 4–12｜Pre-Seed → Seed)](#)
 
 
 
-[6.3 Phase Three: Mainnet Launch & Token Issuance (9–18 Months)](#)
+[6.3 Phase Three: Mainnet Launch, Token Issuance & Continuous Incentives (Month 12–20｜Seed → Private)](#)
 
 
 
-[6.4 Phase Four: DAO Establishment, Governance Takeover & Mining Incentives (18–24 Months)](#)
+[6.4 Phase Four: DAO Launch, Governance Transition & Mining Incentives V2 (Month 20–26｜Private → Public)](#)
 
 
 
-[Chapter 7Funding Plan & Token Sale](#)
+[6.5 Phase Five: Ecosystem Expansion, Multi-Chain Deployment & Aggregator Upgrade (Month 26–30｜Post-Public)](#)
 
 
 
-[7.1 Vesting Model for Investors](#)
+[6.6 Full Roadmap Timeline](#)
 
 
 
-[7.2 Seed Round Funding Plan](#)
+[Chapter 7 Funding Plan & Token Sale](#)
 
 
 
-[7.3 Private Round Funding Plan](#)
+[7.1 Token Vesting Model](#)
 
 
 
-[7.4 Public Sale Funding Plan](#)
+[7.2 Four-Stage Funding Model Overview](#)
 
 
 
-[7.5 Use of Funds](#)
+[7.3 Pre-Seed Round (300,000 USD)](#)
 
 
 
-[7.6 Funding Structure Summary](#)
+[7.4 Seed Round (1,500,000 USD)](#)
+
+
+
+[7.5 Private Round (5,000,000 USD)](#)
+
+
+
+[7.6 Public Sale (10–15M USD or DAO decision)](#)
+
+
+
+[7.7 Use of Funds](#)
 
 
 
@@ -322,6 +332,7 @@
 
 
 [A.5 Contact Information](#)
+
 
 
 [Summary](#)

@@ -1,345 +1,337 @@
 
+# Chapter 6 Project Roadmap
 
-# Chapter 6 Project Roadmap
 
 
+The JU2 project roadmap consists of five major phases, covering the full cycle from core architecture development, smart contract deployment, mainnet launch, DAO governance takeover, to multi-chain ecosystem expansion. The overall planning period is approximately **24–36 months**, with specific timelines dynamically adjusted based on technical progress and community governance outcomes.
 
-The JU2 project roadmap is divided into five main phases, covering the full cycle from core architecture development and smart contract deployment to mainnet launch, DAO governance takeover, and multi-chain ecosystem expansion.  
 
-The overall planning cycle spans approximately **24–36 months**, with specific timelines dynamically adjusted based on technical progress and community governance decisions.
 
+JU2’s development philosophy is based on **security-first, transparency, steady iteration, and community co-governance**, ensuring the construction of a sustainable decentralized trading ecosystem from technology to community.
 
 
-JU2’s development philosophy is built on **security-first, transparency, steady iteration, and community co-governance**, ensuring the gradual construction of a sustainable decentralized trading ecosystem from technology to ecosystem development.
 
+In the new plan, an **overlapping phases** development model is adopted to improve efficiency, shorten the mainnet launch cycle, and maintain a balance between security and ecosystem growth.
 
 
-The new roadmap adopts **Overlapping Phases** to enhance development efficiency, shorten the mainnet launch cycle, and balance security with ecosystem growth.
 
+### 6.1 Phase One: System Architecture Design & Smart Contract Development (Month 0–6｜Aligned with Pre-Seed)
 
 
-### 6.1 Phase One: System Architecture & Smart Contract Development (0–6 Months)
 
+**Objective:** Complete core system design, smart contract suite development, and front-end prototype.
 
 
-**Objective:** Complete core system design and smart contract development.
 
+**Key Work Items**
 
 
-**Main Work Items**
 
+• Complete JU2’s overall technical architecture  
 
+(Front-end, AMM, Router, Aggregation Layer, DAO, API Gateway)  
 
-- Complete overall architecture design (Front-end, AMM, Aggregator, DAO, unified API)
+• Develop AMM core contract (AMM-Lite v1)  
 
+• Develop Router / Factory / Liquidity Pool contracts  
 
+• Develop basic governance contracts (Governance Framework v1)  
 
-- Develop AMM core contracts, Router, Liquidity Pool, Governance Contract
+• Build front-end UI prototype (Web) and mobile adaptation framework  
 
+• Complete unit testing, simulated trading tests, and basic performance testing  
 
+• Build multi-signature treasury and DAO contract framework (not yet activated)
 
-- Create front-end UI prototype and mobile adaptation
 
 
+**Deliverables**
 
-- Complete unit testing and basic performance testing
 
 
+• JU2 Smart Contract Suite v1.0 (AMM + Router + Factory + LP + Governance)  
 
-- Build multisig treasury and DAO contract framework (not yet activated)
+• Front-end UI Prototype  
 
+• Automated test coverage $\geq$ 85%  
 
+• Technical Whitepaper Draft (Technical Whitepaper v0.9)  
 
-**Phase Deliverables**
+• New Tokenomics Mathematical Model (Tokenomic Model Beta)
 
 
 
-- JU2 Smart Contract Suite v1.0 (AMM + Router + LP + Governance)
+### 6.2 Phase Two: Testnet Deployment, Security Audit & A/B Public Testing (Month 4–12｜Pre-Seed → Seed)
 
 
 
-- Front-end prototype system online
+(Note: Phase Two overlaps with Phase One for 2 months between Month 4–6)
 
 
 
-- Test script coverage $\geq$ 85%
+**Objective:** Complete full Testnet, public testing, security audits, and performance optimization.
 
 
 
-- Technical version of the whitepaper (v0.9)
+**Key Work Items**
 
 
 
-### 6.2 Phase Two: Testnet Deployment & Security Audit (4–9 Months)
+• Deploy full DEX suite on BNB Chain Testnet / Arbitrum Sepolia  
 
+• Launch Testnet A (Closed Testing) and Testnet B (Public Testing)  
 
+• Adjust AMM parameters based on data (concentrated liquidity, fee models)  
 
-*Note: Phase Two overlaps with Phase One for 2 months (Months 4–6) to improve overall efficiency.*
+• Gas optimization for contracts (Router, Pool, Swap Path optimization)  
 
+• Engage third-party audit firms (CertiK / PeckShield / SlowMist)  
 
+• Launch the first performance stress test  
 
-**Objective:** Ensure system stability, security, and usability.
+• Launch Bug Bounty (security vulnerability bounty program)
 
 
 
-**Main Work Items**
+**Deliverables**
 
 
 
-- Deploy full platform on BNB Chain Testnet / Arbitrum Sepolia
+• JU2 Full Testnet (Testnet Environment v1.0)  
 
+• Smart contracts pass at least one top-tier audit  
 
+• Public testing analysis and economic model validation report (Economic Simulation Report)  
 
-- Launch public testing (Testnet A/B Round)
+• Official Whitepaper (Whitepaper v1.0)  
 
+• Testnet Users 10,000+ (Target)
 
 
-- Conduct gas optimization and AMM performance tuning
 
+### 6.3 Phase Three: Mainnet Launch, Token Issuance & Continuous Incentives (Month 12–20｜Seed → Private)
 
 
-- Initiate third-party audits (CertiK / PeckShield, etc.)
 
+**Objective:** Complete Mainnet deployment (Mainnet V1), JU2 Token Generation Event (TGE), launch first trading pairs, and initiate continuous airdrop incentives.
 
 
-- Launch first round of user stress testing
 
+**(1) Token Issuance Method (TGE + Weekly Airdrop)**
 
 
-- Start Bug Bounty program
 
+During Phase Three, the JU2 token is officially issued (TGE) and a continuous airdrop mechanism is launched.
 
 
-**Phase Deliverables**
 
+**Weekly Airdrop Incentive Mechanism**
 
 
-- JU2 full Testnet running stably
 
+• Runs from Month 12 to Month 20  
 
+• Distributed weekly according to on-chain rules  
 
-- Smart contracts approved by at least one top-tier audit firm
+• Reward criteria:  
 
+o Trading Volume  
 
+o Active Score  
 
-- Public testing data & tokenomics validation report
+o User Tier
 
 
 
-- Official version of the whitepaper (v1.0)
+**Airdrop Source: Community Incentives Pool**
 
 
 
-### 6.3 Phase Three: Mainnet Launch & Token Issuance (9–18 Months)
+• From the 300,000,000 JU2 (300 million) defined in Tokenomics  
 
+• No lock-up  
 
+• DAO may adjust distribution speed via proposals
 
-**Objective:** Mainnet deployment, token launch, and continuous airdrop incentives.
 
 
+**(2) Key Work Items**
 
-**(1) Token Issuance Mechanism — Updated Explanation**
 
 
+• Mainnet deployment (BNB Chain / Arbitrum One / Base expandable)  
 
-JU2 Token will be issued in this phase via a:
+• Launch JU2 Token (TGE + Listing)  
 
+• Initiate weekly trading incentive airdrops  
 
+• Launch first mainstream trading pairs:  
 
-**Weekly Airdrop (Continuous Airdrop) Mechanism**
+o USDT / ETH / BNB / JU2  
 
+• Integrate with wallets (MetaMask / OKX Wallet / Rabby)  
 
+• Integrate with aggregators (1inch / ParaSwap / OpenOcean)  
 
-- Weekly airdrops throughout the entire Phase Three (Months 9–18)
+• Integrate with market data platforms (CoinGecko / CoinMarketCap)
 
 
 
-- Airdrop method:  
+**(3) Deliverables**
 
-  **Trading Rewards = Transaction Volume $\times$ Activity Level**
 
 
+• JU2 Mainnet v1.0 stable operation  
 
-- Airdrop source:  
+• JU2 / USDT and JU2 / ETH spot pairs officially open for trading  
 
-  **Community Incentives (300,000,000 JU2)**
+• Trading volume steadily increases (Trading Volume Growth Cycle \#1)  
 
+• Phase One airdrops fully executed  
 
+• Buyback Cycle \#1 activated  
 
-- All airdrops fully transparent and verifiable on-chain
+• Whitepaper v1.1 (with real economic model data)
 
 
 
-- No lock-up period, though DAO may adjust reward speed through proposals
+### 6.4 Phase Four: DAO Launch, Governance Transition & Mining Incentives V2 (Month 20–26｜Private → Public)
 
 
 
-**(2) Main Work Items**
+**Objective:** Transition from team-led to DAO-led governance and launch the DAO-based mining incentive system.
 
 
 
-- Mainnet deployment (BNB Chain / Arbitrum One)
+**(1) Incentive Source & Method (Mining Rewards Phase)**
 
 
 
-- JU2 Token Listing (TGE)
+Starting in Phase Four, incentives no longer come from the Community Incentives Pool but shift to:
 
 
 
-- Launch weekly trading incentive airdrops
+**Second-Phase Incentives (Mining Rewards Phase)**
 
 
 
-- Launch initial trading pairs (USDT, ETH, BNB, major assets)
+• Trade Mining  
 
+• LP Mining  
 
+• Weekly Airdrop Model (unchanged)
 
-- Complete early-stage user acquisition
 
 
+**Airdrop Source: DAO Treasury**
 
-- Integrate with wallets, aggregators, and market data platforms
 
 
+• DAO may release up to **5% of treasury balance per month**  
 
-**(3) Phase Deliverables (Important Updates)**
+• Rewards distributed automatically based on:  
 
+o Trading Volume  
 
+o LP Contribution  
 
-**🚀 Final Deliverable: JU2 Spot Trading Market Live**
+o Staking Duration
 
 
 
-At the end of Phase Three:
+**(2) Key Work Items**
 
 
 
-- JU2/USDT, JU2/ETH and other spot trading pairs officially open
+• Full launch of DAO voting system (DAO Voting v1.0)  
 
+• Establish DAO Committee  
 
+• DAO takes over:  
 
-- Stable growth of user trading volume achieved
+o Treasury management  
 
+o Ecosystem grants (Grants Program)  
 
+o Buyback execution  
 
-- Completion of the first Community Airdrop Phase
+• Launch Mining Rewards System v2  
 
+• Launch Community Developer Fund  
 
+• Establish Security Fund  
 
-- Buyback Cycle \#1 initiated
+• Gradually reduce founding team governance rights to below 20%
 
 
 
-- Whitepaper v1.1 (with real-tokenomics performance data)
+**(3) Deliverables**
 
 
 
-### 6.4 Phase Four: DAO Establishment, Governance Takeover & Mining Incentives (18–24 Months)
+• DAO becomes the sole governance authority  
 
+• Treasury, buyback, and ecosystem expansion fully controlled by DAO  
 
+• Trade mining & LP mining systems operate steadily  
 
-**Objective:** Transition from team-led governance to DAO-led governance and launch the second incentive phase.
+• Community Developer Fund, Marketing Fund, Risk Fund launched  
 
+• Governance Architecture v2.0 (SubDAO structure) established
 
 
-**(1) Incentive Source & Method — Updated Explanation**
 
+### 6.5 Phase Five: Ecosystem Expansion, Multi-Chain Deployment & Aggregator Upgrade (Month 26–30｜Post-Public)
 
 
-Phase Four continues to provide mining rewards, but no longer uses the Community Incentive Pool.  
 
-Instead, rewards come from:
+**Objective:** Expand to multi-chain, upgrade AMM, and scale ecosystem modularity.
 
 
 
-**Second Incentive Phase (Mining Rewards Phase)**
+**Key Work Items**
 
 
 
-- **Trade Mining**
+• Multi-chain deployment (Arbitrum + Base + BNB + Optimism)  
 
+• JU2 Aggregation Engine upgrade (Aggregation Engine v2.0)  
 
+• New routing paths & cross-chain swaps  
 
-- **LP Mining**
+• Institutional market maker integration (MM Integration)  
 
+• Developer SDK suite for third-party integration  
 
+• Launch SubDAO ecosystem (regional DAO / developer DAO)  
 
-Rewards continue using the **Weekly Airdrop** model.
+• Expand global communities (Japan, Korea, SEA, US, EU)
 
 
 
-**Airdrop Source:** DAO Treasury
+**Deliverables**
 
 
 
-DAO Treasury will release a certain percentage of JU2 monthly for mining incentives:
+• JU2 becomes a multi-chain DEX  
 
+• Aggregator performance comparable to 1inch / OpenOcean  
 
+• Significant growth in ecosystem developers  
 
-- Release Limit: **Up to 5% of DAO Treasury balance per month**
+• DAO achieves stable governance and global expansion
 
 
 
-- Distribution Method: Weighted by trading volume, LP contribution, and staking duration
+### 6.6 Full Roadmap Timeline
 
 
 
-- All distributions publicly visible on-chain
-
-
-
-This establishes a smooth transition from **Community Incentives → DAO Incentives**, supporting long-term platform sustainability.
-
-
-
-**(2) Main Work Items**
-
-
-
-- Full launch of DAO voting system
-
-
-
-- Establishment of the DAO Committee
-
-
-
-- DAO takeover of treasury funds, ecosystem grants, buyback execution, etc.
-
-
-
-- Initiate DAO-based mining incentive system
-
-
-
-- Build security fund and reserve fund module
-
-
-
-- Gradual reduction of founding team governance permissions (down to below 20%)
-
-
-
-**(3) Phase Deliverables**
-
-
-
-- DAO fully controls governance authority and treasury management
-
-
-
-- Trade Mining & LP Mining airdrops executed according to DAO decisions
-
-
-
-- DAO voting activity reaches a stable participation level
-
-
-
-- Establishment of community developer fund, market fund, and risk fund
-
-
-
-- Completion of Governance Architecture v2.0 (initial SubDAO framework formed)
-
+| **Month** | **Phase** | **Key Deliverables** |
+|----|----|----|
+| 0–6 | Phase One | Architecture + Contracts + Prototype + Whitepaper v0.9 |
+| 4–12 | Phase Two | Testnet, Audits, Public Testing, Whitepaper v1.0 |
+| 12–20 | Phase Three | Mainnet + TGE + Incentive Airdrop Cycle \#1 |
+| 20–26 | Phase Four | DAO Takeover + Mining Rewards \#2 |
+| 26–30 | Phase Five | Multi-chain Expansion + Aggregator Upgrade + SubDAO |
 

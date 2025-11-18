@@ -1,372 +1,331 @@
 
-# Chapter 7 Funding Plan & Token Sale
 
+# Chapter 7 Funding Plan & Token Sale
 
 
-JU2’s funding plan is built around three core principles:  
 
-**Long-term value, transparent governance, and stable vesting**, ensuring sustainable project operation, mainnet delivery, user growth, and cross-chain ecosystem expansion.
+JU2’s funding framework is designed around **long-term value, transparent governance, and decentralized evolution**.
 
 
 
-JU2’s financing structure consists of three components:  
+The project’s goal is not to become a DEX controlled by the founding team, but ultimately a **community-owned decentralized trading ecosystem**.
 
-**Funding Rounds (Seed → Private → Public) + Token Locking Mechanism + Transparent Fund Management.**
 
 
+Therefore, the token economy maintains:
 
-All raised funds and token distributions are governed by **smart contract custody, multi-signature wallet oversight, and on-chain transparency**, ensuring full trust for both investors and the community.
 
 
+• **30% token allocation for investors (unchanged)**  
 
-### 7.1 Vesting Model for Investors
+• Team allocation unchanged, with longer vesting  
 
+• DAO and community retain ultimate decision-making authority
 
 
-All JU2 tokens allocated to the three funding rounds follow the same vesting rules:
 
+JU2 believes that early investors are the most critical governance participants. Their expertise, long-term perspective, and economic alignment will form the **founding governance set** of the DAO.
 
 
-**(1) Lock-up Period (Cliff)**
 
+This chapter explains JU2’s funding rounds, token sale mechanisms, vesting rules, and fund utilization.
 
 
-- Begins after the token is listed and spot trading goes live
 
+### 7.1 Token Vesting Model
 
 
-- **6-month lock-up (180 days)**
 
+All investor tokens across all funding rounds follow a unified vesting model for fairness and long-term stability.
 
 
-- Tokens cannot be sold or transferred during the lock-up period
 
+**(1) Cliff Period**
 
 
-**(2) Linear Vesting Period**
 
+• Starts after token listing  
 
+• 6-month (180 days) cliff  
 
-- After the 6-month lock-up ends
+• Tokens cannot be transferred or sold during this period
 
 
 
-- **12 months of linear vesting**
+**(2) Linear Vesting**
 
 
 
-- Daily automatic release: Total amount / 365
+• After the cliff  
 
+• **Daily linear release over 12 months (Total $\div$ 365)**
 
 
-**(3) Total Vesting Cycle**
 
+**(3) Total Vesting Period**
 
 
-**18 months (6 + 12)**
 
+18 months (6-month cliff + 12-month linear vesting)
 
 
-This structure ensures stable project growth, prevents short-term sell pressure, and encourages long-term investor participation.
 
+This structure prevents short-term sell-offs and encourages long-term governance participation.
 
 
-### 7.2 Seed Round Funding Plan
 
+### 7.2 Four-Stage Funding Model Overview
 
 
-**Target Amount:**  
 
-300 ETH
+JU2’s four funding rounds cover the full cycle from Testnet MVP → Mainnet → Multi-chain expansion → Global community scaling.
 
 
 
-**Minimum Investment:**
+| **Round** | **Target Amount** | **Method** | **Phase Focus** | **Investor Token Pool** |
+|----|----|----|----|----|
+| Pre-Seed | 300,000 USD | Equity/SAFT | Complete Testnet MVP & Build Core Team | From 30% investor pool |
+| Seed | 1,500,000 USD | SAFT | Mainnet, Audit, DAO Base | Same |
+| Private | 5,000,000 USD | SAFT/Strategic | Multi-chain, TVL, Global BD | Same |
+| Public Sale | 10–15M USD (DAO-adjustable) | Capped Public Sale | Community participation & ecosystem expansion | Same |
 
 
 
-- Participation in units of **10 ETH**
+**The total investor allocation stays at 30%**, and tokens for each round are drawn from this pool, ensuring consistent Tokenomics.
 
 
 
-**Token Allocation:**  
+### 7.3 Pre-Seed Round (300,000 USD)
 
-**100,000,000 JU2 (100 million)**  
 
-Divided into two parts:
 
+**Goals**
 
 
-| **Portion** | **Trigger Condition** | **Corresponding Tokens** | **Multiplier Description** |
-|----|----|----|----|
-| First Portion | When 60% of target is reached (180 ETH) | 72,000,000 JU2 | 1.2$\times$ token allocation multiplier |
-| Second Portion | Settled at the end of Seed Round | 28,000,000 JU2 | 0.7$\times$ token allocation multiplier |
 
+• Build a 2–3 person core technical team  
 
+• Complete Testnet MVP (v1 → v2)  
 
-**(1) Trigger Condition**
+• Finalize Tokenomics 2.0 (mathematical model)  
 
+• Establish initial legal structure (Foundation + Labs)
 
 
-When the raised amount reaches **180 ETH (60% of target)**:
 
+**Investment Participation (Co-Invest Friendly)**
 
 
-- Phase One and Phase Two development work begins immediately
 
+This round supports:
 
 
-- 72 million JU2 allocated to the seed round are released
 
+• A single institutional or individual investor  
 
+• Multiple co-investors
 
-- Team enters full development mode (architecture, contracts, testnet)
 
 
+No fixed allocation ratio, no mandatory lead/ follow structure.  
 
-**(2) Funding Deadline Rules**
+Investors may participate according to their strategy and scale.
 
 
 
-- The Seed Round automatically closes **30 days** after launch
+This model allows:
 
 
 
-- All unsold tokens (the remaining 40%, i.e., 28,000,000 JU2)  
+• Diverse governance participants  
 
-  → **Return entirely to the DAO Treasury**
+• Stronger DAO foundations  
 
+• Avoiding capital concentration  
 
+• Sustainable governance structure
 
-DAO Treasury usage includes:
 
 
+**Token Allocation**
 
-- Security reserve
 
 
+From the 30% investor pool.
 
-- Community governance rewards
 
 
+### 7.4 Seed Round (1,500,000 USD)
 
-- Future incentive programs
 
 
+**Goals**
 
-Ensuring shared value for the community from unpurchased allocations.
 
 
+• Complete smart contract audits  
 
-**(3) Investor Return Model**
+• Launch Mainnet V1  
 
+• Deploy Liquidity Engine  
 
+• Start DAO v1 (Treasury + Proposal System)
 
-- Expected return period: **24 months**
 
 
+**Participation**
 
-- Expected ROI: **11,400%**
 
 
+• SAFT  
 
-Estimated based on platform growth, buyback mechanisms, and long-term ecosystem expansion.
+• Supports single or multiple investors  
 
+• Suitable for mid-sized institutional checks (25k–250k)
 
 
-### 7.3 Private Round Funding Plan
 
+**Token Allocation**
 
 
-**Target Amount:**  
 
-1500 ETH
+From the investor pool, maintaining Tokenomics stability.
 
 
 
-**Minimum Investment:**
+### 7.5 Private Round (5,000,000 USD)
 
 
 
-- Participation in units of **50 ETH**
+**Goals**
 
 
 
-**Token Allocation:**  
+• Multi-chain expansion (Arbitrum / Base / zkEVM)  
 
-**100,000,000 JU2 (100 million)**
+• Global BD, partners, exchange integrations  
 
+• Liquidity incentive programs (LP Mining / Market Makers)  
 
+• Strengthen security framework
 
-**(1) Time Window**
 
 
+**Participation**
 
-- Begins when Phase Two (Testnet Deployment) starts
 
 
+• SAFT + Strategic Partnerships  
 
-- Ends when Phase Three (Mainnet Launch) begins
+• Large institutional participation allowed  
 
+• Co-investors welcome  
 
+• Some contributions may be non-monetary (nodes, LP support)
 
-- Or ends early if the target amount is reached
 
 
+**Token Allocation**
 
-**(2) Handling of Unsold Tokens**
 
 
+From the 30% investor pool (no extra dilution).
 
-- Any tokens not purchased by the end of the round  
 
-  → **Automatically injected into the DAO Treasury**
 
+### 7.6 Public Sale (10–15M USD or DAO decision)
 
 
-DAO Treasury usage includes:
 
+**Goals**
 
 
-- Project operations
 
+• Attract global community  
 
+• Build genuine holder base  
 
-- Ecosystem expansion
+• Support DAO expansion & TVL growth  
 
+• Bring first batch of real trading users
 
 
-- Liquidity building
 
+**Capped Public Sale Mechanism**
 
 
-- Buyback & reserve funds
 
+To avoid whale domination:
 
 
-**(3) Investor Return Model**
 
+• Minimum purchase per address  
 
+• Maximum cap per address  
 
-- Expected return period: **15 months**
+• DAO may adjust parameters
 
 
 
-- Expected ROI: **1,900%**
+This approach is fairer and better suited for a community-owned DEX.
 
 
 
-Suitable for institutional investors and strategic partners.
+**Pricing Models**
 
 
 
-### 7.4 Public Sale Funding Plan
+Any of the following:
 
 
 
-**Target Amount:**  
+• LBP (Balancer-style)  
 
-5000 ETH
+• Bonding Curve  
 
+• DAO-controlled dynamic parameters
 
 
-**Minimum Investment:**
 
+Manual price manipulation is not used for fairness and compliance.
 
 
-- Participation in units of **100 ETH**  
 
-  (Threshold may be lowered via DAO proposals)
+**Unsold Tokens**
 
 
 
-**Token Allocation:**  
+Returned to the DAO Treasury for:
 
-**100,000,000 JU2 (100 million)**
 
 
+• Security reserve  
 
-**(1) Time Window**
+• Liquidity reinforcement  
 
+• Ecosystem incentives  
 
+• Partnership programs  
 
-- Begins at the start of Phase Three (Mainnet Launch)
+• Long-term DAO budget
 
 
 
-- Ends when Phase Four begins (token spot trading goes live)
+### 7.7 Use of Funds
 
 
 
-- Or ends early if the target amount is reached
+All funds are managed by a DAO multi-signature wallet with transparent on-chain records.
 
 
 
-**(2) Dynamic ETH/JU2 Rate**
-
-
-
-During the public sale:
-
-
-
-- DAO votes monthly to adjust the ETH/JU2 ratio
-
-
-
-- Adjustments consider market conditions, TVL, trading volume, user growth
-
-
-
-- Ensures fairness and smooth price transition for public investors
-
-
-
-**(3) Handling of Unsold Tokens**
-
-
-
-- All unsold tokens at the end of the public sale  
-
-  → Injected into the DAO Treasury as long-term reserves
-
-
-
-**(4) Investor Return Model**
-
-
-
-- Expected return period: **6 months**
-
-
-
-- Expected ROI: **850%**
-
-
-
-Targeting the global community and early platform users.
-
-
-
-### 7.5 Use of Funds
-
-
-
-All funds are managed via a **DAO multi-signature wallet** and fully transparent on-chain.
-
-
-
-**Recommended Fund Allocation**
-
-
-
-| **Use of Funds** | **Percentage** | **Description** |
+| **Category** | **Allocation** | **Description** |
 |----|----|----|
-| Technology Development | 30–40% | Contract development, front-end, cross-chain bridge, full nodes, SDK |
-| Security & Audit | 10–15% | Security audits, bug bounty, security fund |
-| Marketing & Community | 20–30% | Global community growth, branding, partnership marketing |
-| Liquidity Bootstrapping | 15–25% | Market making, LP incentives, cross-chain bridge liquidity |
-| DAO Treasury Reserve | 10–20% | Emergency reserve, buyback fund, subDAO budgets |
+| Technology Development | 30–40% | Contracts, front-end, cross-chain, SDK, optimization |
+| Security & Audits | 10–15% | Audits, bug bounty, security fund |
+| Marketing & Community | 15–25% | Global user growth, regional markets, partnerships |
+| Liquidity (TVL) | 20–30% | Market making, LP mining, cross-chain liquidity |
+| DAO Treasury Reserve | 10–20% | Buyback fund, SubDAO budget, emergency reserve |
 
 
 
@@ -374,64 +333,9 @@ All funds are managed via a **DAO multi-signature wallet** and fully transparent
 
 
 
-- All fund flows publicly visible on-chain
+• Quarterly DAO financial reports  
 
+• Large expenditures require governance voting  
 
+• All transactions are on-chain and publicly viewable
 
-- DAO publishes quarterly **Treasury Reports**
-
-
-
-- Major expenditures require governance proposal approval
-
-
-
-### 7.6 Funding Structure Summary
-
-
-
-| **Round** | **Target Amount** | **Investment Threshold** | **Token Allocation** | **Vesting Model** | **Unsold Tokens** | **Return Period** | **Expected ROI** |
-|----|----|----|----|----|----|----|----|
-| Seed | 300 ETH | 10 ETH | 100M | 6-month lock-up / 12-month vesting | Returned to DAO Treasury | 24 months | 11,400% |
-| Private | 1500 ETH | 50 ETH | 100M | Same as above | Returned to DAO Treasury | 15 months | 1,900% |
-| Public | 5000 ETH | 100 ETH | 100M | Same as above | Returned to DAO Treasury | 6 months | 850% |
-
-
-
-**Conclusion**
-
-
-
-JU2’s funding system is built on the principles of **sustainability, transparency, openness, and decentralization**, ensuring:
-
-
-
-- Fair valuation
-
-
-
-- Smart contract-based lock-up
-
-
-
-- Multi-signature treasury management
-
-
-
-- Stage-based funding triggers
-
-
-
-- Unpurchased tokens returning to the DAO
-
-
-
-- Clear fund usage and return models
-
-
-
-This protects investor interests, supports long-term project development, and maintains DAO governance stability.
-
-
-
-JU2’s goal is not rapid fundraising, but building a **community-owned, self-evolving decentralized trading ecosystem**.

@@ -1,7 +1,4 @@
 
-**Version History**
-
-
 
 <table>
 
@@ -63,13 +60,13 @@
 
 <tr>
 
-<td></td>
+<td>2025.11.18</td>
 
-<td></td>
+<td>Comprehensive Revision of Chapter 6: Project Execution Roadmap and Chapter 7: Funding Plan &amp; Use of Proceeds</td>
 
-<td></td>
+<td>Langpu Turner</td>
 
-<td></td>
+<td>0.3</td>
 
 </tr>
 

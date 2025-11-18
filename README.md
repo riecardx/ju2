@@ -463,3 +463,168 @@ Welcome to JU2.
 **Email：** riecardx@gmail.com  
 
 **GitHub：** <https://github.com/riecardx/ju2>
+
+
+
+
+
+
+<table>
+
+<colgroup>
+
+<col style="width: 11%" />
+
+<col style="width: 68%" />
+
+<col style="width: 12%" />
+
+<col style="width: 7%" />
+
+</colgroup>
+
+<thead>
+
+<tr>
+
+<th><strong>日期</strong></th>
+
+<th><strong>内容</strong></th>
+
+<th><strong>作者</strong></th>
+
+<th><strong>版本号</strong></th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>2025.11.11</td>
+
+<td>创建框架，完善基本内容</td>
+
+<td>拉恩普·特纳</td>
+
+<td>0.1</td>
+
+</tr>
+
+<tr>
+
+<td>2025.11.13</td>
+
+<td>同步发布英文版</td>
+
+<td><p>拉恩普·特纳</p>
+
+<p>威廉</p></td>
+
+<td>0.2</td>
+
+</tr>
+
+<tr>
+
+<td>2025.11.18</td>
+
+<td>第6章　项目执行路线 &amp; 第 7 章　融资计划与资金运用 整体修改</td>
+
+<td>拉恩普·特纳</td>
+
+<td>0.3</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+
+
+
+
+
+
+
+
+<table>
+
+<colgroup>
+
+<col style="width: 11%" />
+
+<col style="width: 67%" />
+
+<col style="width: 14%" />
+
+<col style="width: 7%" />
+
+</colgroup>
+
+<thead>
+
+<tr>
+
+<th><strong>Date</strong></th>
+
+<th><strong>Description</strong></th>
+
+<th><strong>Author</strong></th>
+
+<th><strong>Version</strong></th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>2025.11.11</td>
+
+<td>Framework created, core content added</td>
+
+<td>Langpu Turner</td>
+
+<td>0.1</td>
+
+</tr>
+
+<tr>
+
+<td>2025.11.13</td>
+
+<td>Release the English version simultaneously</td>
+
+<td><p>Langpu Turner</p>
+
+<p>William</p></td>
+
+<td>0.2</td>
+
+</tr>
+
+<tr>
+
+<td>2025.11.18</td>
+
+<td>Comprehensive Revision of Chapter 6: Project Execution Roadmap and Chapter 7: Funding Plan &amp; Use of Proceeds</td>
+
+<td>Langpu Turner</td>
+
+<td>0.3</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+
+
+

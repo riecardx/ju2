@@ -464,7 +464,8 @@ Welcome to JU2.
 
 **GitHub：** <https://github.com/riecardx/ju2>
 
-
+**Funding address:** 0x7d955068d9059dcc03962feb92f5cd4c7acf28f7
+This address supports deposits from Ethereum Mainnet, Arbitrum, Optimism, Base, BNB Chain (BSC), Polygon, Avalanche, Fantom, Linea, Scroll, Mantle, and other EVM-compatible networks.
 
 
 
